@@ -1,8 +1,0 @@
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.exe.config
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.exe
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.pdb
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.csproj.AssemblyReference.cache
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.csproj.SuggestedBindingRedirects.cache
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.exe
-C:\Users\Samuel\source\repos\01 - ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.pdb
